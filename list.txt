@@ -1,3 +1,6 @@
 things to do
 practce
 practice git
+ adding new thing from git hub
+
+>>>>>>>
